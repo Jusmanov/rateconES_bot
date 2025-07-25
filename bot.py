@@ -6,7 +6,7 @@ from telegram import Update, InputFile
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # === CONFIG ===
-BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+BOT_TOKEN = '8202672834:AAEdtRN-k-AieCq7h43J4qPoLoNCBRe-HpA'
 SIGNATURE_NAME = 'Ali Khursanov'
 LAST_FILE_PATH = 'temp/last_uploaded.pdf'
 
